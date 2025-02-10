@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aalli-innaa/30github/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aalli-innaa/30github/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
