@@ -16,4 +16,5 @@
 | [0176-second-highest-salary](https://github.com/aalli-innaa/30github/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/aalli-innaa/30github/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/aalli-innaa/30github/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/aalli-innaa/30github/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
