@@ -20,6 +20,7 @@
 | [0595-big-countries](https://github.com/aalli-innaa/30github/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/aalli-innaa/30github/tree/master/0619-biggest-single-number) |
 | [0627-swap-salary](https://github.com/aalli-innaa/30github/tree/master/0627-swap-salary) |
+| [1153-product-sales-analysis-i](https://github.com/aalli-innaa/30github/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/aalli-innaa/30github/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/aalli-innaa/30github/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/aalli-innaa/30github/tree/master/1827-invalid-tweets) |
