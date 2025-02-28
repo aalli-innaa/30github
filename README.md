@@ -22,6 +22,7 @@
 | [0620-not-boring-movies](https://github.com/aalli-innaa/30github/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/aalli-innaa/30github/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/aalli-innaa/30github/tree/master/1153-product-sales-analysis-i) |
+| [1161-project-employees-i](https://github.com/aalli-innaa/30github/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/aalli-innaa/30github/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/aalli-innaa/30github/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aalli-innaa/30github/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
