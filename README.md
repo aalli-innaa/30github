@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aalli-innaa/30github/tree/master/0001-two-sum) |
+| [3778-transform-array-by-parity](https://github.com/aalli-innaa/30github/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/aalli-innaa/30github/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/aalli-innaa/30github/tree/master/1942-primary-department-for-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aalli-innaa/30github/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Sorting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/aalli-innaa/30github/tree/master/3778-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/aalli-innaa/30github/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
